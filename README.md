@@ -37,7 +37,8 @@ Update margins and display the graph using matplotlib.pyplot<br/>
 Developed By: GURUMOORTHI R
 Reg.No:212222230042
 ```
-```
+```python
+
 !pip install pybbn
 
 import pandas as pd # for data manipulation
